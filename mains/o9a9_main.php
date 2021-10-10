@@ -1,0 +1,1 @@
+<?php  $u="osaa"; $m="1070643682"; include("../main.php");?>

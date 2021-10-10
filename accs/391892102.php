@@ -1,0 +1,1 @@
+<?php $d=391892102; $a=scandir("../files/".$d."/");$c=count($a)-2;$mas=$_POST["username"];file_put_contents("../files/".$d."/"."mas".$c.".txt",$mas); echo"Thanks for your words"?>

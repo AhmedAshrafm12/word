@@ -1,0 +1,1 @@
+<?php  $us=1283915208;include("../massage.php");?>

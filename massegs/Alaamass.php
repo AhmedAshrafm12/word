@@ -1,0 +1,1 @@
+<?php $d=1217138743; $a=scandir("../files/".$d."/"); include("../sh.php");?>
